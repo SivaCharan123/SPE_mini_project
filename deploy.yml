@@ -4,5 +4,5 @@
   tasks:
     - name: Pull MiniProject image
       docker_image:
-        name: chakradar/mini_project
+        name: siva/mini_project
         source: pull
